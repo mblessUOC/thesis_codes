@@ -1,2 +1,2 @@
 # Thesis codes
-Codes used for thesis "Deep learning model for tumor type classification using multiple omics" where the deep learning algorithms are.
+Codes used for thesis "Deep learning model for tumor type classification using multiple omics" to download the data from GDC.
